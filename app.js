@@ -16,9 +16,7 @@ myPromise
 .catch((error) =>{
     console.log(error)
 })
-.finally(() =>{
-    console.log('finally')
-})
+
 
 //დავალება N2
 
